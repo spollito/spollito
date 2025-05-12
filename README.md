@@ -19,3 +19,16 @@
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spollito&style=flat&color=blue" alt="Visitor badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spollito&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spollito&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
