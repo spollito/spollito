@@ -42,7 +42,7 @@ Passionate about building full-stack applications and solving real-world problem
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/stevenburuca/](https://www.linkedin.com/in/steven-buruca-4a3369251/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-buruca-4a3369251/)
 [![Gmail](https://img.shields.io/badge/Email-stevenburuca1%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:stevenburuca1@gmail.com)
 
 
