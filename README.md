@@ -1,48 +1,153 @@
-## 👋 Hi there, I'm Steven Buruca
+<div align="center">
 
-Aspiring Software Engineer | CS @ SUNY Farmingdale (Dec 2025)  
-Passionate about building full-stack applications and solving real-world problems with clean, scalable code.
+# Hey, I'm Steven Buruca 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AI-Powered+Applications;Full-Stack+%7C+Backend+%7C+Cloud;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
+**Software Engineer • CS Graduate • Georgia Tech OMSCS**
 
-### Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+I build scalable software, AI-powered workflows, and full-stack applications that solve real-world problems.
 
-### Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-003366?style=flat&logo=openjdk&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### Tools & Platforms  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spollito&style=flat&color=blue" alt="Visitor badge" />
+## ⚡ About Me
+
+```yaml
+name: Steven Buruca
+role: Software Engineer
+location: New York, NY
+education:
+  - B.S. Computer Science
+  - M.S. Computer Science @ Georgia Tech
+interests:
+  - Backend Engineering
+  - Full-Stack Development
+  - AI Agents
+  - Cloud Systems
+  - Developer Tools
+currently_learning:
+  - System Design
+  - AI Engineering
+  - Distributed Systems
+```
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spollito&layout=compact&theme=tokyonight" alt="Top languages" />
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,flask" />
 </p>
 
+### Databases & Cloud
 
-## 📬 Connect With Me
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,azure,aws" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-buruca-4a3369251/)
-[![Gmail](https://img.shields.io/badge/Email-stevenburuca1%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:stevenburuca1@gmail.com)
+### Developer Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+</p>
 
+---
+
+## 🤖 What I'm Interested In
+
+- Building **AI-powered developer tools and enterprise agents**
+- Designing **reliable backend services and APIs**
+- Developing **full-stack products from idea → production**
+- Exploring **spec-driven development and AI-assisted engineering**
+- Learning more about **distributed systems and cloud architecture**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛠️ DevPlane
+**AI-assisted software planning & development platform**
+
+A developer platform focused on turning product ideas into structured specifications, implementation plans, and engineering workflows.
+
+`AI` `Developer Tools` `Full Stack` `System Design`
+
+---
+
+### 🤖 AI Agent Workflows
+**Enterprise automation using intelligent agents**
+
+Building agents that translate natural-language requests into validated backend actions, orchestrate workflows, and interact with enterprise systems.
+
+`AI Agents` `Automation` `APIs` `Enterprise Systems`
+
+---
+
+### 🎮 Sprite.exe
+**Interactive coding-learning platform**
+
+A full-stack learning platform combining coding exercises, personalized onboarding, AI-assisted learning, and an interactive companion experience.
+
+`Next.js` `TypeScript` `PostgreSQL` `Azure` `AI`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spollito&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spollito&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=spollito&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spollito&theme=tokyo-night&hide_border=true)](https://github.com/spollito)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven%20Buruca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-buruca-4a3369251/)
+
+[![Email](https://img.shields.io/badge/Email-stevenburuca1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenburuca1@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-spollito-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spollito)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=spollito&style=for-the-badge&color=blue" />
+
+### 💻 Build. Learn. Iterate.
+
+</div>
