@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AI-Powered+Applications;Full-Stack+%7C+Backend+%7C+Cloud;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-**Software Engineer • CS Graduate • Georgia Tech OMSCS**
+**Software Engineer • CS Graduate • Georgia Tech MSCS**
 
 I build scalable software, AI-powered workflows, and full-stack applications that solve real-world problems.
 
@@ -24,6 +24,7 @@ education:
 interests:
   - Backend Engineering
   - Full-Stack Development
+  = ML/AI
   - AI Agents
   - Cloud Systems
   - Developer Tools
