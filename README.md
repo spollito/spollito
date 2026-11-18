@@ -24,7 +24,7 @@ education:
 interests:
   - Backend Engineering
   - Full-Stack Development
-  = ML/AI
+  - ML/AI
   - AI Agents
   - Cloud Systems
   - Developer Tools
